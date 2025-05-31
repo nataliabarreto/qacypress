@@ -1,1 +1,1 @@
-# qacypress
+# Repositorio para as automações.
